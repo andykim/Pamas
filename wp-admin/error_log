@@ -1,0 +1,28 @@
+[19-Aug-2013 22:28:25] PHP Parse error:  syntax error, unexpected $end in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 552
+[20-Aug-2013 01:17:15] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 542
+[20-Aug-2013 02:02:00] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 633
+[20-Aug-2013 02:02:49] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 633
+[20-Aug-2013 02:02:51] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 633
+[20-Aug-2013 02:02:51] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 633
+[20-Aug-2013 02:24:52] PHP Parse error:  syntax error, unexpected T_BOOLEAN_OR, expecting ',' or ')' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 633
+[20-Aug-2013 02:24:53] PHP Parse error:  syntax error, unexpected T_BOOLEAN_OR, expecting ',' or ')' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 633
+[20-Aug-2013 02:26:02] PHP Parse error:  syntax error, unexpected T_BOOLEAN_OR, expecting ',' or ')' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 633
+[20-Aug-2013 02:26:05] PHP Parse error:  syntax error, unexpected T_BOOLEAN_OR, expecting ',' or ')' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 633
+[20-Aug-2013 02:26:07] PHP Parse error:  syntax error, unexpected T_BOOLEAN_OR, expecting ',' or ')' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 633
+[20-Aug-2013 02:26:07] PHP Parse error:  syntax error, unexpected T_BOOLEAN_OR, expecting ',' or ')' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 633
+[20-Aug-2013 02:26:32] PHP Parse error:  syntax error, unexpected T_BOOLEAN_OR, expecting ',' or ')' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 633
+[20-Aug-2013 02:26:34] PHP Parse error:  syntax error, unexpected T_BOOLEAN_OR, expecting ',' or ')' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 633
+[22-Aug-2013 00:33:22] PHP Parse error:  syntax error, unexpected '{' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 738
+[22-Aug-2013 00:33:52] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 738
+[22-Aug-2013 00:34:47] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 738
+[22-Aug-2013 00:34:57] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 738
+[22-Aug-2013 00:35:52] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 738
+[22-Aug-2013 00:45:31] PHP Parse error:  syntax error, unexpected $end in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 763
+[22-Aug-2013 00:46:42] PHP Parse error:  syntax error, unexpected $end in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 763
+[22-Aug-2013 00:47:47] PHP Parse error:  syntax error, unexpected $end in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 763
+[22-Aug-2013 00:48:22] PHP Parse error:  syntax error, unexpected $end in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 763
+[22-Aug-2013 00:48:30] PHP Parse error:  syntax error, unexpected '}' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 740
+[22-Aug-2013 00:48:56] PHP Parse error:  syntax error, unexpected '}' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 740
+[22-Aug-2013 01:06:46] PHP Parse error:  syntax error, unexpected '.', expecting T_VARIABLE or '$' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 738
+[22-Aug-2013 01:06:49] PHP Parse error:  syntax error, unexpected '.', expecting T_VARIABLE or '$' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 738
+[22-Aug-2013 01:18:32] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/hoisinhv/public_html/pamas/wp-content/themes/pamas/functions.php on line 81
